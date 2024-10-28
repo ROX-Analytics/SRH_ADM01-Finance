@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../ADM01 - Finance.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
